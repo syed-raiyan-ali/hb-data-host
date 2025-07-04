@@ -3,14 +3,84 @@
     "id": "001",
     "title": "How I Felt When I Saw You Smile",
     "date": "2025-01-27",
-    "tags": ["emotional", "milestone"],
+    "tags": ["emotional", "firsts"],
     "file": "entry-1.json"
   },
   {
     "id": "002",
-    "title": "That Midnight Phone Call",
-    "date": "2025-02-14",
-    "tags": ["call", "emotional", "oli"],
+    "title": "Names and Blankets",
+    "date": "2025-01-30",
+    "tags": ["soft", "early-days"],
     "file": "entry-2.json"
+  },
+  {
+    "id": "003",
+    "title": "Learning Your Rhythm",
+    "date": "2025-02-10",
+    "tags": ["real", "flow", "bonding"],
+    "file": "entry-3.json"
+  },
+  {
+    "id": "004",
+    "title": "The Family We Dream About",
+    "date": "2025-02-21",
+    "tags": ["future", "lyan", "warmth"],
+    "file": "entry-4.json"
+  },
+  {
+    "id": "005",
+    "title": "March and the Silences",
+    "date": "2025-03-12",
+    "tags": ["fights", "healing", "trust"],
+    "file": "entry-5.json"
+  },
+  {
+    "id": "006",
+    "title": "That Week We Still Chose Each Other",
+    "date": "2025-03-25",
+    "tags": ["overwhelm", "commitment"],
+    "file": "entry-6.json"
+  },
+  {
+    "id": "007",
+    "title": "You Became My Rhythm",
+    "date": "2025-04-10",
+    "tags": ["april", "gentle", "growth"],
+    "file": "entry-7.json"
+  },
+  {
+    "id": "008",
+    "title": "Every Shade of You",
+    "date": "2025-04-24",
+    "tags": ["acceptance", "comfort", "depth"],
+    "file": "entry-8.json"
+  },
+  {
+    "id": "009",
+    "title": "The Harder Days of May",
+    "date": "2025-05-12",
+    "tags": ["conflict", "gentleness", "reassurance"],
+    "file": "entry-9.json"
+  },
+  {
+    "id": "010",
+    "title": "Not Tiptoeing Around Love",
+    "date": "2025-05-27",
+    "tags": ["boundaries", "honesty", "long-term"],
+    "file": "entry-10.json"
+  },
+  {
+    "id": "011",
+    "title": "Trying to Keep Us Lit",
+    "date": "2025-06-09",
+    "tags": ["doubt", "patience", "waiting"],
+    "file": "entry-11.json"
+  },
+  {
+    "id": "012",
+    "title": "Choosing to Stay",
+    "date": "2025-06-28",
+    "tags": ["test", "choice", "quiet-love"],
+    "file": "entry-12.json"
   }
 ]
